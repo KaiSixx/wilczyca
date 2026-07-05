@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="PAZUR — okładka (podmień na prawdziwą grafikę)">
+  <rect width="600" height="600" fill="#0b0708"/>
+  <circle cx="420" cy="180" r="140" fill="#d63b1c"/>
+  <circle cx="420" cy="180" r="140" fill="none" stroke="#ff5a2a" stroke-width="6" opacity="0.6"/>
+  <circle cx="460" cy="150" r="20" fill="#8f2110" opacity="0.7"/>
+  <circle cx="390" cy="215" r="30" fill="#8f2110" opacity="0.6"/>
+  <g stroke="#e8d5b0" stroke-width="14" stroke-linecap="round">
+    <path d="M120 520 200 300"/><path d="M190 540 270 320"/><path d="M260 560 340 340"/>
+  </g>
+  <text x="48" y="120" font-family="Arial Narrow, Arial, sans-serif" font-size="52" font-weight="bold" fill="#e8d5b0" letter-spacing="2">PAZUR</text>
+  <text x="48" y="560" font-family="monospace" font-size="22" fill="#a5927a">BIAŁA WILCZYCA</text>
+</svg>

@@ -1,0 +1,17 @@
+{
+  "name": "Biała Wilczyca",
+  "short_name": "B. Wilczyca",
+  "description": "Oficjalna strona zespołu Biała Wilczyca — rock/punk z polskiej sceny niezależnej.",
+  "lang": "pl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0708",
+  "theme_color": "#0b0708",
+  "icons": [
+    {
+      "src": "img/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

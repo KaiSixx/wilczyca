@@ -1,0 +1,6 @@
+# Biała Wilczyca — robots.txt
+User-agent: *
+Allow: /
+
+# EDYCJA: podmień domenę na własną
+Sitemap: https://example.com/sitemap.xml
